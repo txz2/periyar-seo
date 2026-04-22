@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://periyar-thattukada-blog.pages.dev/sitemap.xml
